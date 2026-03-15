@@ -1,10 +1,10 @@
-PhishGuard — AI-Powered Email Phishing Detection
+SHIELDMOD — AI-Powered Email Phishing Detection
 
-PhishGuard is a real-time AI platform that analyzes incoming emails and detects phishing attempts instantly. Paste any email — subject, body, links — and the AI evaluates whether it's a phishing attack, scores the risk level, explain attempts.
+SHIELDMOD is a real-time AI platform that analyzes incoming emails and detects phishing attempts instantly. Paste any email — subject, body, links — and the AI evaluates whether it's a phishing attack, scores the risk level, explain attempts.
 
 Phishing emails are the #1 vector for cyberattacks. Traditional spam filters miss sophisticated attacks that use legitimate-looking domains, urgency tactics, and social engineering. Employees and users cannot always identify phishing emails manually — and one wrong click can compromise an entire organization.
 
-PhishGuard uses *Google Gemini 2.0 Flash* to read and understand email content the same way a human security analyst would — detecting deceptive language, suspicious links, impersonation tactics, and psychological manipulation patterns in real time.
+SHIELDMOD uses *Google Gemini 2.0 Flash* to read and understand email content the same way a human security analyst would — detecting deceptive language, suspicious links, impersonation tactics, and psychological manipulation patterns in real time.
 
 
 
@@ -46,7 +46,7 @@ PhishGuard uses *Google Gemini 2.0 Flash* to read and understand email content t
 bash
 # 1. Clone the repository
 git clone https://github.com/nkhtmmdv/Caspian-Code
-cd phishGuard
+cd SHIELDMOD
 
 # 2. Install dependencies
 npm install
